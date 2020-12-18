@@ -17,7 +17,7 @@ Discord: [http://discord.gg/BM7AEpJbgw](http://discord.gg/BM7AEpJbgw)
 
 As part of it, I have written a few handouts.
 
-### [Algebra of Complex Numbers](https://thecalt.wordpress.com/handouts/)
+### [Algebra of Complex Numbers](https://bobthegod78.github.io/complex-numbers-part-1.pdf)
 
 
 The handout introduces you to the algebra of complex numbers. Reading this will give you a good understanding of them.
