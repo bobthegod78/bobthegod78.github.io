@@ -7,7 +7,9 @@ TheCALT is a project I am working on with my brother. We host competitions, writ
 
 Website: [http://thecalt.wordpress.com/](http://thecalt.wordpress.com/)
 
+
 All our handouts (not only mine): [https://thecalt.wordpress.com/handouts/](https://thecalt.wordpress.com/handouts/)
+
 
 Discord: [http://discord.gg/BM7AEpJbgw](http://discord.gg/BM7AEpJbgw)
 
